@@ -18,7 +18,7 @@ más y más de este gran sector.
 -->
 ## Contacto
 
-- LinkedIn: [Tu LinkedIn](https://www.linkedin.com/in/adrian-guerra46/)
+- LinkedIn: [/adrian-guerra46](https://www.linkedin.com/in/adrian-guerra46/)
 - Correo electrónico: [guerra4610@gmail.com](mailto:tu_correo@example.com)
 
 ¡No dudes en contactarme si tienes alguna pregunta o sugerencia!
