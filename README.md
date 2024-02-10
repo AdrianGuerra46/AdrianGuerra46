@@ -1,8 +1,8 @@
+![Banner](https://github.com/AdrianGuerra46/AdrianGuerra46/blob/main/Adrian%20Guerra.png?raw=true)
+
 ## Hola, mi nombre es Adrian Guerra 👋
 
-Bienvenido/a a mi perfil de GitHub. Soy un apasionado/a por la tecnología y la programación.
-
-![Banner](https://github.com/AdrianGuerra46/AdrianGuerra46/blob/main/Adrian%20Guerra.png?raw=true)
+Bienvenido/a a mi perfil de GitHub. Soy un apasionado por la tecnología y la programación.
 
 ## Sobre mí
 
