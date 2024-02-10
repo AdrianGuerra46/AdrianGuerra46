@@ -1,4 +1,4 @@
-![Banner](https://github.com/AdrianGuerra46/AdrianGuerra46/blob/main/Adrian%20Guerra.png?raw=true)
+![Banner](https://github.com/AdrianGuerra46/AdrianGuerra46/blob/main/imagenes/bannerAdrianRecortado.png?raw=true)
 
 ## Hola, mi nombre es Adrian Guerra 👋
 
