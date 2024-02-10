@@ -2,7 +2,7 @@
 
 Bienvenido/a a mi perfil de GitHub. Soy un apasionado/a por la tecnología y la programación.
 
-![Banner]([url_de_tu_imagen](https://github.com/AdrianGuerra46/AdrianGuerra46/blob/main/Adrian%20Guerra.png?raw=true))
+![Banner](https://github.com/AdrianGuerra46/AdrianGuerra46/blob/main/Adrian%20Guerra.png?raw=true)
 
 ## Sobre mí
 
