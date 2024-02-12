@@ -6,8 +6,8 @@ Bienvenido/a a mi perfil de GitHub. Soy un apasionado por la tecnología y la pr
 
 ## Sobre mí
 
-Soy bachiller Técnico en Gestión Empresarial y actual estudiante de los ultimos semestre de ingenieria mecatrónica, he podido participar he diversos
-proyectos, aportando principalmente en las áreas de electrónica y/o programación, me considero una persona autodidacta y siempre dispuestoa a aprender
+Soy bachiller Técnico en Gestión Empresarial y actual estudiante de los últimos semestre de ingenieria mecatrónica, he podido participar en diversos
+proyectos, aportando principalmente en las áreas de electrónica y/o programación, me considero una persona autodidacta y siempre dispuesto a aprender
 más y más de este gran sector.
 <!--
 ## Proyectos Destacados
