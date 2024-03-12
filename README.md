@@ -30,9 +30,10 @@ Aquí puedes listar tus proyectos más impresionantes. Para cada proyecto, inclu
 - **Francisco José de Caldas** - Bachiller Técnico especializado en Gestión Empresarial (2007 - 2018)
   - Obtuve reconocimientos como: Mejor bachiller, Mejor ICFES, Campeón en Matemáticas...
 
-
+<!--
 ## 📈 Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AdrianGuerra46&show_icons=true&theme=radical)
+-->
 
 ## 📫 Cómo contactarme
 - **Email:** [guerra4610@gmail.com](mailto:guerra4610@gmail.com)
